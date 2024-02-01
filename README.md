@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Papri Biswas
 - 👀 I’m interested in Backend Development
-- 🌱 I’m currently learning Laravel, Java
+- 🌱 I’m currently learning Php, Java
 - 📫 How to reach me perfectpapri@gmail.com
 
 
