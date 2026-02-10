@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Papri Biswas
 - 👀 I’m interested in Backend Development
-- 🌱 I’m currently learning Php, Java , nest js
+- 🌱 I’m currently learning Php, Java , Dot Net
 - 📫 How to reach me perfectpapri@gmail.com
 
 
